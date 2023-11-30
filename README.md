@@ -42,7 +42,7 @@ This project is a web scraping application written in Python that extracts data 
 4. Run the scraper:
 
    ```bash
-   python web_scraper.py
+   python src/data/webscraper.py
    ```
 
 ## Configuration
